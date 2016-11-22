@@ -6,3 +6,4 @@ kmeans.labels_
 kmeans.predict([[0, 0], [4, 4]])
 kmeans.cluster_centers_
 
+print "Hello World"
